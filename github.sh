@@ -3,3 +3,4 @@ read -p "Enter) the second number " b
 echo "output" $(( a+b ))
 A=1
 welcome
+abisheak
